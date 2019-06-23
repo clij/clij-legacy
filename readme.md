@@ -1,6 +1,6 @@
 ## Installation instructions for CLIJ in ImageJ1
 
-[Download ImageJ1](https://imagej.nih.gov/ij/download.html). In order to make CLIJ run in ImageJ, download the folling jar files, remove the number from their endings and put them in the `plugins/jars/` directory of your ImageJ installation:
+[Download ImageJ1](https://imagej.nih.gov/ij/download.html). In order to make CLIJ run in ImageJ, download the following jar files, remove the number from their file name endings and put them in the `plugins/jars/` directory of your ImageJ installation:
 * [bridj-0.7.0.jar](https://sites.imagej.net/clij/jars/bridj-0.7.0.jar-20181201213334)
 * [clij_1.0.5-BETA.jar](https://github.com/clij/clij/releases/download/1.0.5-BETA/clij-core-1.0.5-BETA.jar)
 * [clij-clearcl-0.8.0.jar](https://sites.imagej.net/clij/jars/clij-clearcl-0.8.0.jar-20190115231015)
