@@ -13,6 +13,11 @@ In order to make CLIJ run in ImageJ, download the folling jar files, remove the 
 * [jocl-2.0.1-jar](https://sites.imagej.net/clij/jars/jocl-2.0.1.jar-20181201212910)
 * [scijava-common-2.77.0-jar](https://sites.imagej.net/Java-8/jars/scijava-common-2.76.1.jar-20181204141527)
 
-Please note: It is recommended to [use clij from Fiji](). ImageJ1 support is experimental.
+### Please note
+It is recommended to [use clij from Fiji](https://clij.github.io/clij-docs/installationInFiji). ImageJ1 support is experimental.
+
+### Known issues
+* CLIJ doesn't support ImageJ ops in ImageJ1.
+* CLIJ is not extensible with CLIJ plugins in ImageJ1.
 
 [Back to CLIJ documentation](https://clij.github.io/)
