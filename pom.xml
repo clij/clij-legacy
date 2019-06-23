@@ -14,7 +14,7 @@
 
 	<groupId>net.haesleinhuepf</groupId>
 	<artifactId>clij-legacy_</artifactId>
-	<version>1.0.5-BETA</version>
+	<version>0.1.0</version>
 
 	<name>clij-legacy</name>
 	<description>clij-legacy</description>
